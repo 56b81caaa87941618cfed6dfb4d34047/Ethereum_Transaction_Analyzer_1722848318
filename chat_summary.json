@@ -42,5 +42,11 @@
         "content": "Acknowledged, adding a button labelled Submit.",
         "timestamp": "05082024085957",
         "message_id": "guest05082024085956"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly on the app do you want the 'Submit' button to be placed?\", \"option1\": \"At the bottom of the form.\", \"option2\": \"In the header, next to the menu options.\"}, {\"question 2\": \"What should happen when a user clicks the 'Submit' button?\", \"option1\": \"The app should save the input data and show a confirmation message.\", \"option2\": \"The app should redirect the user to a new page with further instructions.\"}], \"input_token_count\": 260, \"output_token_count\": 114, \"time_taken\": \"0:00:03.704796\"}",
+        "timestamp": "05082024090000",
+        "message_id": "guest05082024085956"
     }
 ]
