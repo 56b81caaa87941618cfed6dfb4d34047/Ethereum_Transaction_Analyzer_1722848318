@@ -16,7 +16,10 @@ Vue.component("simple_footer_component_1722848320", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Stay ahead of the Ethereum blockchain with real-time transaction monitoring and analysis. Powered by cutting-edge technology to provide you with actionable insights.
-                    </div>
+                        Stay ahead of the Ethereum blockchain with real-time transaction monitoring and analysis. Powered by cutting-edge technology to provide you with actionable insights.
+                        <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">
+                            Submit
+                        </button>
                 </div>
             </div>
         </footer> 
